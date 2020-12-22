@@ -712,6 +712,17 @@ p span {
 	text-indent: 2em;
 	padding-left: 30px;
 	color: #000;
+	padding-right: 30px;
+}
+.text2-1 {
+	line-height:25px;
+	table-layout: fixed;
+	word-wrap: break-word;
+	word-break: normal;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	color: #000;
+	padding-right: 30px;
 }
 .text3 {
 	line-height:25px;
