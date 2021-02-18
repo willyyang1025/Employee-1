@@ -692,6 +692,11 @@ p span {
 	text-justify: inter-ideograph;
 	color: #000;
 }
+.text-padd {
+	padding-left:10px;
+	padding-right:10px;
+	line-height:25px;
+}
 .text1 {
 	line-height:25px;
 	table-layout: fixed;
@@ -701,6 +706,17 @@ p span {
 	text-justify: inter-ideograph;
 	color: #000;
 	padding-left: 30px;
+}
+.text1-1 {
+	line-height:25px;
+	table-layout: fixed;
+	word-wrap: break-word;
+	word-break: normal;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	color: #000;
+	padding-left: 30px;
+	padding-right: 25px;
 }
 .text2 {
 	line-height:25px;
